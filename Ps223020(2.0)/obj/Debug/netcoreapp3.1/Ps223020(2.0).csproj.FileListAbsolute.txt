@@ -1,0 +1,5 @@
+C:\Users\StudentDev\source\repos\Ps223020(2.0)\Ps223020(2.0)\obj\Debug\netcoreapp3.1\Ps223020(2.0).csprojAssemblyReference.cache
+C:\Users\StudentDev\source\repos\Ps223020(2.0)\Ps223020(2.0)\obj\Debug\netcoreapp3.1\Ps223020(2.0).AssemblyInfoInputs.cache
+C:\Users\StudentDev\source\repos\Ps223020(2.0)\Ps223020(2.0)\obj\Debug\netcoreapp3.1\Ps223020(2.0).AssemblyInfo.cs
+C:\Users\StudentDev\source\repos\Ps223020(2.0)\Ps223020(2.0)\obj\Debug\netcoreapp3.1\Ps223020(2.0).csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\source\repos\Ps223020(2.0)\Ps223020(2.0)\obj\Debug\netcoreapp3.1\Ps223020(2.0).MvcApplicationPartsAssemblyInfo.cache
