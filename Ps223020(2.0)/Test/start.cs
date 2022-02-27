@@ -10,14 +10,21 @@ namespace Ps223020_2._0_.Test
         public static world myworld;
         public static void StartApp()
         {
-            myworld = new world(x: 50.0F, y: 100.0F);
+            try
+            {
+                myworld = new world(x: 5000000.0F, y: 100.0F);
+            }
+            catch
+            {
+                Console.WriteLine("Что-то пошло не так");
+            }
         }
         
-        public static void StartDay()
-        {
-            bool isDay = false;
-            int duration = myworld.getDurationDayandNight();
-            checkEndDay();
-        }
+        //public static void StartDay()
+        //{
+        //    bool isDay = false;
+        //    int duration = myworld.getDurationDayandNight();
+        //    checkEndDay();
+        //}
     }
 }
